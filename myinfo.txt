@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Name: Muhammad Rehan" 
+=======
+"Name:  Muhammad Rehan Abid" 
+>>>>>>> 7d4fc03a8cee67cb734df862d98e67ae51231c3c
 Student at FOIT UCP
